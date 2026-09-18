@@ -1,0 +1,8 @@
+{
+  "searchCountry": "US",
+  "zip": "10001",
+  "distance": 50,
+  "sortType": "DEAL_SCORE",
+  "sortDirection": "DESC",
+  "maxPages": 5
+}

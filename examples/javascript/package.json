@@ -1,0 +1,11 @@
+{
+  "name": "cargurus-scraper",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node run_actor.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  }
+}
